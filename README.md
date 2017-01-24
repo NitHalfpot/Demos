@@ -1,8 +1,8 @@
 # Demos
 
-There should be a leading and trailing space in this block: ` # `
+There's no whitespace in this (even though there should be): `        #           `
 
+There *is* whitespace here though (like there should be):
 ```
-There should be a leading and trailing space below, too:
- # 
+      #         
 ```
